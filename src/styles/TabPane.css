@@ -1,0 +1,15 @@
+.tabpane-component {
+  height: 100%;
+}
+
+.active-tabPane {
+  display: flex;
+  font-size: 30px;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+}
+
+.hidden-tabPane {
+    display: none;
+}

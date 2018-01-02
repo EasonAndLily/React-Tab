@@ -1,0 +1,13 @@
+html, body{
+  height: 100%;
+  width: 100%;
+  background-color: rgba(42, 154, 242, 0.7);
+}
+
+.root{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-flow: row nowrap;
+  align-items: center;
+}
